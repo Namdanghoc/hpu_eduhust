@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "928387666470",
+    "project_id": "hpu-edhub",
+    "storage_bucket": "hpu-edhub.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928387666470:android:d74047d3c8d569157e8ce7",
+        "android_client_info": {
+          "package_name": "com.example.app_luyen_de_thpt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0oby7skio-9YIATVQ2poI7oIi1Uak7Bo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928387666470:android:f69d7af1419b9d2f7e8ce7",
+        "android_client_info": {
+          "package_name": "com.example.hpu_eduhust"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0oby7skio-9YIATVQ2poI7oIi1Uak7Bo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
